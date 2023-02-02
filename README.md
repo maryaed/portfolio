@@ -1,8 +1,8 @@
 # Marya DeVoto's Technical Writing Portfolio
 
-This repository contains samples of my work as a technical writer. Because most of this content was created as PDFs drawn from content published on corporate websites, formatting problems reflect CSS issues in the published content, rather than intentional formatting in the source. 
+This repository contains samples of my work as a technical writer. I wrote the primary text in these documents with input from technical and product sources and from peer reviewers. Where possible, they also reflect my own testing of product functionality. They're not rewrites of documents contributed by other people. 
 
-I wrote the primary text in these documents with input from technical and product sources and from peer reviewers. Where possible, they also reflect my own testing of product functionality. They're not rewrites of documents contributed by other people. 
+Because most of this content was created in PDF format from HTML content published on corporate websites, formatting problems reflect CSS issues in the published content, rather than intentional formatting in the source. 
 
 ## Index of Samples
 
