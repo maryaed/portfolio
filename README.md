@@ -10,7 +10,7 @@ This repository contains a collection of files demonstrating a range of skills a
 
 ### [guide-to-documentation-voice-and-tone.pdf](/guide-to-documentation-voice-and-tone.pdf)
 
-As a primary creator of Xandr's documentation style guide, I contributed these guidelines and examples, which were used by the User Experience team as well as Technical Communication team.
+As a primary creator of Xandr's Technical Communication style guide, I contributed these guidelines and examples, which were used by the User Experience team as well as the Technical Communication team.
 
 ### [guide-to-understanding-report-discrepancies.pdf](guide-to-understanding-report-discrepancies.pdf)
 
